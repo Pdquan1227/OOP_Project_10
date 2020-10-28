@@ -1,2 +1,2 @@
-# OOP_Project_10
-OOP Project _ Group 10
+# OOP_Project_10 - Chess
+Instructions:
